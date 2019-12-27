@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main{
+kkjadslkja ajldjladjslk a
+a
+a;;
+}
